@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aaplexamp</string>
+    <string name="play_album_from_current">Play Album from Current Song</string>
+    <string name="play_album_from_start">Play Album from Start</string>
+</resources>

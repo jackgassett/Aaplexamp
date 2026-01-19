@@ -1,0 +1,46 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+.navigation/
+captures/
+output.json
+*.hprof
+.cxx/
+*.so
+*.log
+.settings/
+app/release/
+gradle/wrapper/gradle-wrapper.jar
+
+# Android build files
+app/build/
+build/
+*/build/
+.gradle/
+
+# Local configuration files
+local.properties
+gradle.properties
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
